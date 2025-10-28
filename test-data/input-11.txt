@@ -1,0 +1,3 @@
+GT4500,2,0,0,0 #create ship with two shots in primary.
+TORPEDO,SINGLE
+TORPEDO,SINGLE #Should fire twice from primary and check secondary.
