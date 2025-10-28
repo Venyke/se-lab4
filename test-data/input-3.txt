@@ -1,0 +1,4 @@
+# Create a ship with 1 primary and 100% chance of fail
+GT4500,1,100,10,0
+TORPEDO,SINGLE  # should have fired from the primary -> fail
+TORPEDO,SINGLE  # should have fired from the secondary

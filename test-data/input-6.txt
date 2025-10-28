@@ -1,0 +1,3 @@
+# Create a ship with empty primary, loaded secondary
+GT4500,0,0,10,0
+TORPEDO,ALL # Fires only from secondary

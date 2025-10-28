@@ -1,0 +1,2 @@
+SUCCESS # <- ship
+SUCCESS # <- fire both
